@@ -1,0 +1,28 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment folders
+env/
+venv/
+
+# Ignore dataset files (optional)
+*.csv
+*.xlsx
+
+# Ignore model weights and checkpoints (optional)
+*.pt
+*.pth
+
+# Ignore output files
+outputs/
+*.log
+*.tmp
+
+# Ignore IDE/project files
+.vscode/
+.idea/
+.DS_Store
