@@ -13,7 +13,7 @@ This project aims to predict house prices using deep learning techniques impleme
 - Python
 - PyTorch
 - Pandas & NumPy
-- Scikit-learn
+- Scikit-learn 1
 
 
 ## 📁 Project Structure
